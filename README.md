@@ -1,5 +1,5 @@
 # The Second HTML & CSS Website Template - Kasper
-This is my first HTML and CSS website template I've builded.
+This is my first HTML and CSS website template I've built.
 
 The website template design is called *Kasper* and it's creative and great template for portfolio made by [Graphberry](https://www.graphberry.com/item/kasper-one-page-creative-html-theme).
 
